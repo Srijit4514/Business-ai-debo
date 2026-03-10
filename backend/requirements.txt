@@ -1,5 +1,14 @@
 fastapi
 uvicorn
 pandas
-google-generativeai
+numpy
+plotly
+python-dotenv
+pyYAML
+ensure
 pydantic
+python-box
+joblib
+google-genai
+python-multipart
+openpyxl
